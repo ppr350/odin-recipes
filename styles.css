@@ -1,0 +1,35 @@
+h1 {
+    font-size: 70px;
+    font-family: "Lucida Coonsole", sans-serif;
+    color: teal;
+    text-align: left;
+    line-height: 1px;
+}
+
+.main-pic,
+.ramen-pic,
+.yakisoba-pic,
+.miso-soup-pic {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;  
+}
+
+.subsection {
+    font-size: 55px;
+    font-family: "Lucida Console", sans-serif;
+    color: teal;
+    text-align: left;
+    line-height: 1px;
+}
+
+.sub {
+    font-size: 45px;
+    font-family: "Lucida Console", sans-serif;
+}
+
+body {
+    background-color: lightcyan;
+    font-family: "Lucida Coonsole", sans-serif;
+    color: teal;
+}
